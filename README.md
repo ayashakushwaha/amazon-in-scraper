@@ -1,4 +1,4 @@
-# Amazon.in Product Scraping Assignment
+# Amazon.in Product Scraping 
 
 This repository contains a Python script that scrapes product details from Amazon.in and saves them in a CSV file.
 
